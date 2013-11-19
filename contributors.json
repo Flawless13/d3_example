@@ -1,0 +1,3538 @@
+{
+  "nodes":
+  [
+    {
+      "id": 0,
+      "profession": "chef",
+      "name": "Hugh Acheson"
+    },
+    {
+      "id": 1,
+      "profession": "writer",
+      "name": "Chimamanda Ngozi Adichie"
+    },
+    {
+      "id": 2,
+      "profession": "writer",
+      "name": "Daniel Alarcón"
+    },
+    {
+      "id": 3,
+      "profession": "writer",
+      "name": "Hilton Als"
+    },
+    {
+      "id": 4,
+      "profession": "curator",
+      "name": "Paola Antonelli"
+    },
+    {
+      "id": 5,
+      "profession": "producer",
+      "name": "Judd Apatow"
+    },
+    {
+      "id": 6,
+      "profession": "artist",
+      "name": "Tauba Auerbach"
+    },
+    {
+      "id": 7,
+      "profession": "chef",
+      "name": "Dan Barber"
+    },
+    {
+      "id": 8,
+      "profession": "writer",
+      "name": "Jo Ann Beard"
+    },
+    {
+      "id": 9,
+      "profession": "curator",
+      "name": "Jen Bekman"
+    },
+    {
+      "id": 10,
+      "profession": "book cover designer",
+      "name": "Coralie Bickford-Smith"
+    },
+    {
+      "id": 11,
+      "profession": "journalist",
+      "name": "Mark Bittman"
+    },
+    {
+      "id": 12,
+      "profession": "fashion designers",
+      "name": "Lisa Mayock and Sophie Buhai"
+    },
+    {
+      "id": 13,
+      "profession": "musician",
+      "name": "Rosanne Cash"
+    },
+    {
+      "id": 14,
+      "profession": "writer",
+      "name": "Michael Chabon"
+    },
+    {
+      "id": 15,
+      "profession": "artist",
+      "name": "Candy Chang"
+    },
+    {
+      "id": 16,
+      "profession": "chef",
+      "name": "David Chang"
+    },
+    {
+      "id": 17,
+      "profession": "fashion designer",
+      "name": "Rachel Comey"
+    },
+    {
+      "id": 18,
+      "profession": "writer",
+      "name": "Robert Crais"
+    },
+    {
+      "id": 19,
+      "profession": "writer",
+      "name": "Sloane Crosley"
+    },
+    {
+      "id": 20,
+      "profession": "dancer",
+      "name": "Adrian Daching-Waring & Pontus Lidberg"
+    },
+    {
+      "id": 21,
+      "profession": "interior designer",
+      "name": "Tom Delavan"
+    },
+    {
+      "id": 22,
+      "profession": "writer",
+      "name": "Junot Diaz"
+    },
+    {
+      "id": 23,
+      "profession": "writer",
+      "name": "Simon Doonan"
+    },
+    {
+      "id": 24,
+      "profession": "writer",
+      "name": "Jennifer Egan"
+    },
+    {
+      "id": 25,
+      "profession": "writer",
+      "name": "Dave Eggers"
+    },
+    {
+      "id": 26,
+      "profession": "graphic designer",
+      "name": "Tina Roth Eisenberg"
+    },
+    {
+      "id": 27,
+      "profession": "architects",
+      "name": "Merrill Elam & Mack Scogin"
+    },
+    {
+      "id": 28,
+      "profession": "editor",
+      "name": "Derek Fagerstrom & Lauren Smith"
+    },
+    {
+      "id": 29,
+      "profession": "historian",
+      "name": "Drew Gilpin Faust"
+    },
+    {
+      "id": 30,
+      "profession": "actor",
+      "name": "James Franco"
+    },
+    {
+      "id": 31,
+      "profession": "writer",
+      "name": "Sasha Frere-Jones"
+    },
+    {
+      "id": 32,
+      "profession": "typeface designer",
+      "name": "Tobias Frere-Jones"
+    },
+    {
+      "id": 33,
+      "profession": "data-visualization artist",
+      "name": "Ben Fry"
+    },
+    {
+      "id": 34,
+      "profession": "writer",
+      "name": "Rivka Galchen"
+    },
+    {
+      "id": 35,
+      "profession": "doctor",
+      "name": "Atul Gawande"
+    },
+    {
+      "id": 36,
+      "profession": "writer",
+      "name": "Malcolm Gladwell"
+    },
+    {
+      "id": 37,
+      "profession": "artist",
+      "name": "Kim Gordon"
+    },
+    {
+      "id": 38,
+      "profession": "writer",
+      "name": "Philip Gourevitch"
+    },
+    {
+      "id": 39,
+      "profession": "poet",
+      "name": "Jorie Graham"
+    },
+    {
+      "id": 40,
+      "profession": "writer",
+      "name": "Andrew Sean Greer"
+    },
+    {
+      "id": 41,
+      "profession": "writer",
+      "name": "Lev Grossman"
+    },
+    {
+      "id": 42,
+      "profession": "chef",
+      "name": "Gabrielle Hamilton"
+    },
+    {
+      "id": 43,
+      "profession": "writer",
+      "name": "Daniel Handler"
+    },
+    {
+      "id": 44,
+      "profession": "athlete",
+      "name": "Tony Hawk"
+    },
+    {
+      "id": 45,
+      "profession": "photographer",
+      "name": "Todd Hido"
+    },
+    {
+      "id": 46,
+      "profession": "writer",
+      "name": "Pico Iyer"
+    },
+    {
+      "id": 47,
+      "profession": "illustrator",
+      "name": "Oliver Jeffers"
+    },
+    {
+      "id": 48,
+      "profession": "writer",
+      "name": "Miranda July"
+    },
+    {
+      "id": 49,
+      "profession": "illustrator",
+      "name": "Maira Kalman"
+    },
+    {
+      "id": 50,
+      "profession": "cartoonist",
+      "name": "Zachary Kanin"
+    },
+    {
+      "id": 51,
+      "profession": "writer",
+      "name": "Mary Karr"
+    },
+    {
+      "id": 52,
+      "profession": "chef",
+      "name": "Thomas Keller"
+    },
+    {
+      "id": 53,
+      "profession": "designer",
+      "name": "David Kelley"
+    },
+    {
+      "id": 54,
+      "profession": "writer",
+      "name": "Chuck Klosterman"
+    },
+    {
+      "id": 55,
+      "profession": "legal scholar",
+      "name": "Lawrence Lessig"
+    },
+    {
+      "id": 56,
+      "profession": "writer",
+      "name": "Jonathan Lethem"
+    },
+    {
+      "id": 57,
+      "profession": "writer",
+      "name": "Yiyun Li"
+    },
+    {
+      "id": 58,
+      "profession": "jewelry designer",
+      "name": "Pamela Love"
+    },
+    {
+      "id": 59,
+      "profession": "writer",
+      "name": "Larissa MacFarquhar"
+    },
+    {
+      "id": 60,
+      "profession": "graphic designer",
+      "name": "John Maeda"
+    },
+    {
+      "id": 61,
+      "profession": "musician",
+      "name": "Stephin Merritt"
+    },
+    {
+      "id": 62,
+      "profession": "writer",
+      "name": "Stephenie Meyer"
+    },
+    {
+      "id": 63,
+      "profession": "artist",
+      "name": "Marilyn Minter"
+    },
+    {
+      "id": 64,
+      "profession": "musician",
+      "name": "Thurston Moore"
+    },
+    {
+      "id": 65,
+      "profession": "composer",
+      "name": "Nico Muhly"
+    },
+    {
+      "id": 66,
+      "profession": "fashion designer",
+      "name": "Kate & Laura Mulleavy"
+    },
+    {
+      "id": 67,
+      "profession": "filmmaker",
+      "name": "Mira Nair"
+    },
+    {
+      "id": 68,
+      "profession": "illustrator",
+      "name": "Christoph Niemann"
+    },
+    {
+      "id": 69,
+      "profession": "writer",
+      "name": "Sigrid Nunez"
+    },
+    {
+      "id": 70,
+      "profession": "writer",
+      "name": "James Patterson"
+    },
+    {
+      "id": 71,
+      "profession": "librarian",
+      "name": "Nancy Pearl"
+    },
+    {
+      "id": 72,
+      "profession": "writer",
+      "name": "Francine Prose"
+    },
+    {
+      "id": 73,
+      "profession": "writer",
+      "name": "Ishmael Reed"
+    },
+    {
+      "id": 74,
+      "profession": "writer",
+      "name": "Alex Ross"
+    },
+    {
+      "id": 75,
+      "profession": "graphic designer",
+      "name": "Stefan Sagmeister"
+    },
+    {
+      "id": 76,
+      "profession": "writer",
+      "name": "George Saunders"
+    },
+    {
+      "id": 77,
+      "profession": "writer",
+      "name": "Ben Schott"
+    },
+    {
+      "id": 78,
+      "profession": "writer",
+      "name": "David Sedaris"
+    },
+    {
+      "id": 79,
+      "profession": "writer",
+      "name": "Leanne Shapton"
+    },
+    {
+      "id": 80,
+      "profession": "editor",
+      "name": "Sally Singer"
+    },
+    {
+      "id": 81,
+      "profession": "violist",
+      "name": "Nadia Sirota"
+    },
+    {
+      "id": 82,
+      "profession": "writer",
+      "name": "Aria Sloss"
+    },
+    {
+      "id": 83,
+      "profession": "musician",
+      "name": "Patti Smith"
+    },
+    {
+      "id": 84,
+      "profession": "photographer",
+      "name": "Alec Soth"
+    },
+    {
+      "id": 85,
+      "profession": "writer",
+      "name": "Scott Spencer"
+    },
+    {
+      "id": 86,
+      "profession": "editor",
+      "name": "Lorin Stein"
+    },
+    {
+      "id": 87,
+      "profession": "writer",
+      "name": "John Jeremiah Sullivan"
+    },
+    {
+      "id": 88,
+      "profession": "baker",
+      "name": "Christina Tosi"
+    },
+    {
+      "id": 89,
+      "profession": "writer",
+      "name": "Wells Tower"
+    },
+    {
+      "id": 90,
+      "profession": "app developer",
+      "name": "Gina Trapani"
+    },
+    {
+      "id": 91,
+      "profession": "designer",
+      "name": "Jakob Trollback"
+    },
+    {
+      "id": 92,
+      "profession": "stylist",
+      "name": "Robert Verdi"
+    },
+    {
+      "id": 93,
+      "profession": "writer",
+      "name": "Vendela Vida"
+    },
+    {
+      "id": 94,
+      "profession": "writer",
+      "name": "Ayelet Waldman"
+    },
+    {
+      "id": 95,
+      "profession": "chef",
+      "name": "Alice Waters"
+    },
+    {
+      "id": 96,
+      "profession": "artist",
+      "name": "William Wegman"
+    },
+    {
+      "id": 97,
+      "profession": "chef",
+      "name": "George Weld"
+    },
+    {
+      "id": 98,
+      "profession": "artist",
+      "name": "Megan Whitmarsh"
+    },
+    {
+      "id": 99,
+      "profession": "book cover designer",
+      "name": "Henry Sene Yee"
+    },
+    {
+      "id": 100,
+      "profession": "legal scholar",
+      "name": "Jonathan Zittrain"
+    }
+  ],
+  "links":
+  [
+    {
+      "source": 5,
+      "book": "Flappers and Philosophers",
+      "target": 10
+    },
+    {
+      "source": 2,
+      "book": "2666",
+      "target": 12
+    },
+    {
+      "source": 1,
+      "book": "George Eliot",
+      "target": 13
+    },
+    {
+      "source": 5,
+      "book": "What Is the What",
+      "target": 19
+    },
+    {
+      "source": 1,
+      "book": "George Eliot",
+      "target": 24
+    },
+    {
+      "source": 5,
+      "book": "Cathedral",
+      "target": 58
+    },
+    {
+      "source": 4,
+      "book": "Flatland",
+      "target": 60
+    },
+    {
+      "source": 4,
+      "book": "Personal History",
+      "target": 68
+    },
+    {
+      "source": 2,
+      "book": "The Portable Chekhov",
+      "target": 76
+    },
+    {
+      "source": 4,
+      "book": "White Teeth",
+      "target": 76
+    },
+    {
+      "source": 5,
+      "book": "Cathedral",
+      "target": 78
+    },
+    {
+      "source": 2,
+      "book": "The Emperor",
+      "target": 80
+    },
+    {
+      "source": 5,
+      "book": "What Is the What",
+      "target": 94
+    },
+    {
+      "source": 0,
+      "book": "The Taste of Country Cooking",
+      "target": 95
+    },
+    {
+      "source": 10,
+      "book": "Flappers and Philosophers",
+      "target": 5
+    },
+    {
+      "source": 9,
+      "book": "The Elements of Style",
+      "target": 13
+    },
+    {
+      "source": 9,
+      "book": "The Elements of Style",
+      "target": 15
+    },
+    {
+      "source": 7,
+      "book": "Essential Cuisine Michel Bras",
+      "target": 16
+    },
+    {
+      "source": 11,
+      "book": "Catch-22",
+      "target": 34
+    },
+    {
+      "source": 7,
+      "book": "American Pastoral",
+      "target": 35
+    },
+    {
+      "source": 9,
+      "book": "The Collected Poems of Frank O'Hara",
+      "target": 40
+    },
+    {
+      "source": 11,
+      "book": "Catch-22",
+      "target": 47
+    },
+    {
+      "source": 10,
+      "book": "Songs of Innocence and of Experience",
+      "target": 66
+    },
+    {
+      "source": 9,
+      "book": "The Collected Poems of Frank O'Hara",
+      "target": 90
+    },
+    {
+      "source": 9,
+      "book": "Harriet the Spy",
+      "target": 90
+    },
+    {
+      "source": 10,
+      "book": "The Unbearable Lightness of Being",
+      "target": 93
+    },
+    {
+      "source": 7,
+      "book": "Adventures on the Wine Route",
+      "target": 95
+    },
+    {
+      "source": 11,
+      "book": "Catch-22",
+      "target": 100
+    },
+    {
+      "source": 13,
+      "book": "George Eliot",
+      "target": 1
+    },
+    {
+      "source": 12,
+      "book": "2666",
+      "target": 2
+    },
+    {
+      "source": 16,
+      "book": "Essential Cuisine Michel Bras",
+      "target": 7
+    },
+    {
+      "source": 13,
+      "book": "The Elements of Style",
+      "target": 9
+    },
+    {
+      "source": 15,
+      "book": "The Elements of Style",
+      "target": 9
+    },
+    {
+      "source": 14,
+      "book": "Gabriel Garcia Marquez's Love in the Time of Cholera",
+      "target": 13
+    },
+    {
+      "source": 15,
+      "book": "The Elements of Style",
+      "target": 13
+    },
+    {
+      "source": 13,
+      "book": "Gabriel Garcia Marquez's Love in the Time of Cholera",
+      "target": 14
+    },
+    {
+      "source": 13,
+      "book": "The Elements of Style",
+      "target": 15
+    },
+    {
+      "source": 14,
+      "book": "The Stories of John Cheever",
+      "target": 19
+    },
+    {
+      "source": 13,
+      "book": "The Essential Rumi - reissue",
+      "target": 20
+    },
+    {
+      "source": 12,
+      "book": "Terence Conran's New house book",
+      "target": 21
+    },
+    {
+      "source": 13,
+      "book": "George Eliot",
+      "target": 24
+    },
+    {
+      "source": 12,
+      "book": "Terence Conran's New house book",
+      "target": 28
+    },
+    {
+      "source": 15,
+      "book": "The Little Prince",
+      "target": 29
+    },
+    {
+      "source": 14,
+      "book": "Moby Dick",
+      "target": 30
+    },
+    {
+      "source": 14,
+      "book": "Blood Meridian",
+      "target": 30
+    },
+    {
+      "source": 14,
+      "book": "Labyrinths",
+      "target": 33
+    },
+    {
+      "source": 14,
+      "book": "Moby Dick",
+      "target": 38
+    },
+    {
+      "source": 14,
+      "book": "The Long Goodbye",
+      "target": 40
+    },
+    {
+      "source": 14,
+      "book": "Ulysses",
+      "target": 41
+    },
+    {
+      "source": 14,
+      "book": "Moby Dick",
+      "target": 43
+    },
+    {
+      "source": 14,
+      "book": "The Long Goodbye",
+      "target": 43
+    },
+    {
+      "source": 14,
+      "book": "Moby Dick",
+      "target": 46
+    },
+    {
+      "source": 14,
+      "book": "Cloud Atlas",
+      "target": 50
+    },
+    {
+      "source": 14,
+      "book": "Blood Meridian",
+      "target": 51
+    },
+    {
+      "source": 15,
+      "book": "The Little Prince",
+      "target": 53
+    },
+    {
+      "source": 15,
+      "book": "A Moveable Feast",
+      "target": 57
+    },
+    {
+      "source": 14,
+      "book": "Ulysses",
+      "target": 66
+    },
+    {
+      "source": 14,
+      "book": "Blood Meridian",
+      "target": 66
+    },
+    {
+      "source": 14,
+      "book": "Ulysses",
+      "target": 74
+    },
+    {
+      "source": 14,
+      "book": "Moby Dick",
+      "target": 76
+    },
+    {
+      "source": 15,
+      "book": "Jimmy Corrigan",
+      "target": 81
+    },
+    {
+      "source": 14,
+      "book": "Ulysses",
+      "target": 82
+    },
+    {
+      "source": 14,
+      "book": "The Stories of John Cheever",
+      "target": 85
+    },
+    {
+      "source": 15,
+      "book": "Essays of E.B. White",
+      "target": 89
+    },
+    {
+      "source": 13,
+      "book": "The War of Art",
+      "target": 90
+    },
+    {
+      "source": 14,
+      "book": "Moby Dick",
+      "target": 90
+    },
+    {
+      "source": 12,
+      "book": "The Elegant Universe",
+      "target": 100
+    },
+    {
+      "source": 14,
+      "book": "The Phantom Tollbooth",
+      "target": 100
+    },
+    {
+      "source": 19,
+      "book": "What Is the What",
+      "target": 5
+    },
+    {
+      "source": 21,
+      "book": "Terence Conran's New house book",
+      "target": 12
+    },
+    {
+      "source": 20,
+      "book": "The Essential Rumi - reissue",
+      "target": 13
+    },
+    {
+      "source": 19,
+      "book": "The Stories of John Cheever",
+      "target": 14
+    },
+    {
+      "source": 21,
+      "book": "Nine Stories",
+      "target": 18
+    },
+    {
+      "source": 18,
+      "book": "Nine Stories",
+      "target": 21
+    },
+    {
+      "source": 19,
+      "book": "Lolita",
+      "target": 25
+    },
+    {
+      "source": 19,
+      "book": "Slouching Towards Bethlehem",
+      "target": 25
+    },
+    {
+      "source": 17,
+      "book": "The Quilts of Gee's Bend",
+      "target": 27
+    },
+    {
+      "source": 21,
+      "book": "Terence Conran's New house book",
+      "target": 28
+    },
+    {
+      "source": 19,
+      "book": "The Great Gatsby",
+      "target": 30
+    },
+    {
+      "source": 19,
+      "book": "Lolita",
+      "target": 30
+    },
+    {
+      "source": 19,
+      "book": "Flannery O'Connor Complete Stories",
+      "target": 31
+    },
+    {
+      "source": 19,
+      "book": "Lolita",
+      "target": 40
+    },
+    {
+      "source": 19,
+      "book": "Lolita",
+      "target": 43
+    },
+    {
+      "source": 19,
+      "book": "Lolita",
+      "target": 49
+    },
+    {
+      "source": 19,
+      "book": "Birds of America",
+      "target": 50
+    },
+    {
+      "source": 18,
+      "book": "Nine Stories",
+      "target": 51
+    },
+    {
+      "source": 21,
+      "book": "Nine Stories",
+      "target": 51
+    },
+    {
+      "source": 19,
+      "book": "A Supposedly Fun Thing I'll Never Do Again",
+      "target": 54
+    },
+    {
+      "source": 21,
+      "book": "Howards End",
+      "target": 55
+    },
+    {
+      "source": 19,
+      "book": "Slouching Towards Bethlehem",
+      "target": 58
+    },
+    {
+      "source": 21,
+      "book": "The Andy Warhol Diaries",
+      "target": 63
+    },
+    {
+      "source": 19,
+      "book": "A Supposedly Fun Thing I'll Never Do Again",
+      "target": 68
+    },
+    {
+      "source": 19,
+      "book": "A Supposedly Fun Thing I'll Never Do Again",
+      "target": 75
+    },
+    {
+      "source": 19,
+      "book": "Birds of America",
+      "target": 78
+    },
+    {
+      "source": 19,
+      "book": "Flannery O'Connor Complete Stories",
+      "target": 78
+    },
+    {
+      "source": 19,
+      "book": "The portable Dorothy Parker",
+      "target": 78
+    },
+    {
+      "source": 19,
+      "book": "Lolita",
+      "target": 82
+    },
+    {
+      "source": 19,
+      "book": "The Stories of John Cheever",
+      "target": 85
+    },
+    {
+      "source": 19,
+      "book": "Flannery O'Connor Complete Stories",
+      "target": 89
+    },
+    {
+      "source": 19,
+      "book": "What Is the What",
+      "target": 94
+    },
+    {
+      "source": 18,
+      "book": "Nine Stories",
+      "target": 98
+    },
+    {
+      "source": 21,
+      "book": "Nine Stories",
+      "target": 98
+    },
+    {
+      "source": 17,
+      "book": "Native funk & flash",
+      "target": 98
+    },
+    {
+      "source": 19,
+      "book": "Lolita",
+      "target": 99
+    },
+    {
+      "source": 19,
+      "book": "The Great Gatsby",
+      "target": 99
+    },
+    {
+      "source": 24,
+      "book": "George Eliot",
+      "target": 1
+    },
+    {
+      "source": 24,
+      "book": "George Eliot",
+      "target": 13
+    },
+    {
+      "source": 25,
+      "book": "Lolita",
+      "target": 19
+    },
+    {
+      "source": 25,
+      "book": "Slouching Towards Bethlehem",
+      "target": 19
+    },
+    {
+      "source": 25,
+      "book": "Lolita",
+      "target": 30
+    },
+    {
+      "source": 25,
+      "book": "Jesus' Son",
+      "target": 30
+    },
+    {
+      "source": 24,
+      "book": "Don Quixote de la Mancha,1",
+      "target": 30
+    },
+    {
+      "source": 25,
+      "book": "Nausea",
+      "target": 37
+    },
+    {
+      "source": 24,
+      "book": "Invisible Man",
+      "target": 38
+    },
+    {
+      "source": 25,
+      "book": "Lolita",
+      "target": 40
+    },
+    {
+      "source": 25,
+      "book": "Lolita",
+      "target": 43
+    },
+    {
+      "source": 25,
+      "book": "Lolita",
+      "target": 49
+    },
+    {
+      "source": 25,
+      "book": "Jesus' Son",
+      "target": 50
+    },
+    {
+      "source": 22,
+      "book": "The Woman Warrior",
+      "target": 51
+    },
+    {
+      "source": 23,
+      "book": "The custom of the country",
+      "target": 55
+    },
+    {
+      "source": 25,
+      "book": "Slouching Towards Bethlehem",
+      "target": 58
+    },
+    {
+      "source": 25,
+      "book": "Jesus' Son",
+      "target": 58
+    },
+    {
+      "source": 26,
+      "book": "Grid systems in graphic design",
+      "target": 60
+    },
+    {
+      "source": 24,
+      "book": "Invisible Man",
+      "target": 80
+    },
+    {
+      "source": 21,
+      "book": "A Clockwork Orange",
+      "target": 81
+    },
+    {
+      "source": 25,
+      "book": "Lolita",
+      "target": 82
+    },
+    {
+      "source": 25,
+      "book": "Jesus' Son",
+      "target": 84
+    },
+    {
+      "source": 24,
+      "book": "The Golden Notebook",
+      "target": 85
+    },
+    {
+      "source": 25,
+      "book": "Lolita",
+      "target": 99
+    },
+    {
+      "source": 26,
+      "book": "It's Not How Good You Are, Its How Good You Want to Be",
+      "target": 99
+    },
+    {
+      "source": 28,
+      "book": "Terence Conran's New house book",
+      "target": 12
+    },
+    {
+      "source": 30,
+      "book": "Blood Meridian",
+      "target": 14
+    },
+    {
+      "source": 30,
+      "book": "Moby Dick",
+      "target": 14
+    },
+    {
+      "source": 29,
+      "book": "The Little Prince",
+      "target": 15
+    },
+    {
+      "source": 27,
+      "book": "The Quilts of Gee's Bend",
+      "target": 17
+    },
+    {
+      "source": 30,
+      "book": "The Great Gatsby",
+      "target": 19
+    },
+    {
+      "source": 30,
+      "book": "Lolita",
+      "target": 19
+    },
+    {
+      "source": 28,
+      "book": "Terence Conran's New house book",
+      "target": 21
+    },
+    {
+      "source": 30,
+      "book": "Don Quixote de la Mancha,1",
+      "target": 24
+    },
+    {
+      "source": 30,
+      "book": "Lolita",
+      "target": 25
+    },
+    {
+      "source": 30,
+      "book": "Jesus' Son",
+      "target": 25
+    },
+    {
+      "source": 30,
+      "book": "As I Lay Dying",
+      "target": 27
+    },
+    {
+      "source": 30,
+      "book": "William Faulkner's The sound and the fury",
+      "target": 29
+    },
+    {
+      "source": 29,
+      "book": "William Faulkner's The sound and the fury",
+      "target": 30
+    },
+    {
+      "source": 27,
+      "book": "As I Lay Dying",
+      "target": 30
+    },
+    {
+      "source": 30,
+      "book": "Moby Dick",
+      "target": 38
+    },
+    {
+      "source": 29,
+      "book": "The Plague",
+      "target": 38
+    },
+    {
+      "source": 28,
+      "book": "The Americans",
+      "target": 38
+    },
+    {
+      "source": 30,
+      "book": "Lolita",
+      "target": 40
+    },
+    {
+      "source": 30,
+      "book": "Collected fictions",
+      "target": 41
+    },
+    {
+      "source": 30,
+      "book": "Waiting for Godot (Eng Rev)",
+      "target": 41
+    },
+    {
+      "source": 29,
+      "book": "To Kill a Mockingbird",
+      "target": 42
+    },
+    {
+      "source": 30,
+      "book": "Lolita",
+      "target": 43
+    },
+    {
+      "source": 30,
+      "book": "Moby Dick",
+      "target": 43
+    },
+    {
+      "source": 30,
+      "book": "The Dream Songs",
+      "target": 43
+    },
+    {
+      "source": 27,
+      "book": "The Wind-Up Bird Chronicle",
+      "target": 43
+    },
+    {
+      "source": 30,
+      "book": "Moby Dick",
+      "target": 46
+    },
+    {
+      "source": 30,
+      "book": "Lolita",
+      "target": 49
+    },
+    {
+      "source": 27,
+      "book": "The Wind-Up Bird Chronicle",
+      "target": 50
+    },
+    {
+      "source": 30,
+      "book": "Jesus' Son",
+      "target": 50
+    },
+    {
+      "source": 29,
+      "book": "Dispatches",
+      "target": 51
+    },
+    {
+      "source": 30,
+      "book": "Blood Meridian",
+      "target": 51
+    },
+    {
+      "source": 29,
+      "book": "To Kill a Mockingbird",
+      "target": 51
+    },
+    {
+      "source": 29,
+      "book": "The Little Prince",
+      "target": 53
+    },
+    {
+      "source": 30,
+      "book": "Jesus' Son",
+      "target": 58
+    },
+    {
+      "source": 30,
+      "book": "Pale Fire",
+      "target": 66
+    },
+    {
+      "source": 29,
+      "book": "To Kill a Mockingbird",
+      "target": 66
+    },
+    {
+      "source": 30,
+      "book": "On the Road",
+      "target": 66
+    },
+    {
+      "source": 30,
+      "book": "Blood Meridian",
+      "target": 66
+    },
+    {
+      "source": 30,
+      "book": "One Hundred Years of Solitude",
+      "target": 67
+    },
+    {
+      "source": 28,
+      "book": "The Americans",
+      "target": 67
+    },
+    {
+      "source": 29,
+      "book": "Dispatches",
+      "target": 69
+    },
+    {
+      "source": 30,
+      "book": "One Hundred Years of Solitude",
+      "target": 70
+    },
+    {
+      "source": 30,
+      "book": "Moby Dick",
+      "target": 76
+    },
+    {
+      "source": 30,
+      "book": "On the Road",
+      "target": 76
+    },
+    {
+      "source": 30,
+      "book": "Cannery Row",
+      "target": 76
+    },
+    {
+      "source": 27,
+      "book": "The Wind-Up Bird Chronicle",
+      "target": 77
+    },
+    {
+      "source": 29,
+      "book": "William Faulkner's The sound and the fury",
+      "target": 80
+    },
+    {
+      "source": 30,
+      "book": "William Faulkner's The sound and the fury",
+      "target": 80
+    },
+    {
+      "source": 30,
+      "book": "Lolita",
+      "target": 82
+    },
+    {
+      "source": 30,
+      "book": "Jesus' Son",
+      "target": 84
+    },
+    {
+      "source": 30,
+      "book": "The Complete Short Stories Of Ernest Hemingway",
+      "target": 85
+    },
+    {
+      "source": 30,
+      "book": "Pale Fire",
+      "target": 85
+    },
+    {
+      "source": 31,
+      "book": "Pulphead",
+      "target": 86
+    },
+    {
+      "source": 29,
+      "book": "The Moviegoer",
+      "target": 89
+    },
+    {
+      "source": 30,
+      "book": "Moby Dick",
+      "target": 90
+    },
+    {
+      "source": 28,
+      "book": "The Americans",
+      "target": 99
+    },
+    {
+      "source": 27,
+      "book": "The Wind-Up Bird Chronicle",
+      "target": 99
+    },
+    {
+      "source": 30,
+      "book": "Lolita",
+      "target": 99
+    },
+    {
+      "source": 30,
+      "book": "The Great Gatsby",
+      "target": 99
+    },
+    {
+      "source": 35,
+      "book": "American Pastoral",
+      "target": 7
+    },
+    {
+      "source": 34,
+      "book": "Catch-22",
+      "target": 11
+    },
+    {
+      "source": 33,
+      "book": "Labyrinths",
+      "target": 14
+    },
+    {
+      "source": 31,
+      "book": "Flannery O'Connor Complete Stories",
+      "target": 19
+    },
+    {
+      "source": 35,
+      "book": "Doctor Stories",
+      "target": 38
+    },
+    {
+      "source": 34,
+      "book": "Catch-22",
+      "target": 47
+    },
+    {
+      "source": 35,
+      "book": "Selected Stories of Anton Chekov",
+      "target": 51
+    },
+    {
+      "source": 33,
+      "book": "On Food and Cooking",
+      "target": 52
+    },
+    {
+      "source": 35,
+      "book": "Facing Unpleasant Facts",
+      "target": 68
+    },
+    {
+      "source": 35,
+      "book": "Selected Stories of Anton Chekov",
+      "target": 72
+    },
+    {
+      "source": 31,
+      "book": "Flannery O'Connor Complete Stories",
+      "target": 78
+    },
+    {
+      "source": 33,
+      "book": "On Food and Cooking",
+      "target": 88
+    },
+    {
+      "source": 31,
+      "book": "Flannery O'Connor Complete Stories",
+      "target": 89
+    },
+    {
+      "source": 32,
+      "book": "Leaves of Grass",
+      "target": 90
+    },
+    {
+      "source": 34,
+      "book": "We Have Always Lived in the Castle",
+      "target": 94
+    },
+    {
+      "source": 34,
+      "book": "Catch-22",
+      "target": 100
+    },
+    {
+      "source": 40,
+      "book": "The Collected Poems of Frank O'Hara",
+      "target": 9
+    },
+    {
+      "source": 40,
+      "book": "The Long Goodbye",
+      "target": 14
+    },
+    {
+      "source": 41,
+      "book": "Ulysses",
+      "target": 14
+    },
+    {
+      "source": 38,
+      "book": "Moby Dick",
+      "target": 14
+    },
+    {
+      "source": 40,
+      "book": "Lolita",
+      "target": 19
+    },
+    {
+      "source": 43,
+      "book": "Lolita",
+      "target": 19
+    },
+    {
+      "source": 38,
+      "book": "Invisible Man",
+      "target": 24
+    },
+    {
+      "source": 40,
+      "book": "Lolita",
+      "target": 25
+    },
+    {
+      "source": 43,
+      "book": "Lolita",
+      "target": 25
+    },
+    {
+      "source": 37,
+      "book": "Nausea",
+      "target": 25
+    },
+    {
+      "source": 38,
+      "book": "The Americans",
+      "target": 28
+    },
+    {
+      "source": 38,
+      "book": "The Plague",
+      "target": 29
+    },
+    {
+      "source": 42,
+      "book": "To Kill a Mockingbird",
+      "target": 29
+    },
+    {
+      "source": 38,
+      "book": "Moby Dick",
+      "target": 30
+    },
+    {
+      "source": 41,
+      "book": "Collected fictions",
+      "target": 30
+    },
+    {
+      "source": 40,
+      "book": "Lolita",
+      "target": 30
+    },
+    {
+      "source": 43,
+      "book": "Lolita",
+      "target": 30
+    },
+    {
+      "source": 41,
+      "book": "Waiting for Godot (Eng Rev)",
+      "target": 30
+    },
+    {
+      "source": 38,
+      "book": "Doctor Stories",
+      "target": 35
+    },
+    {
+      "source": 40,
+      "book": "The Collected Poems of Wallace Stevens",
+      "target": 39
+    },
+    {
+      "source": 39,
+      "book": "The Collected Poems of Wallace Stevens",
+      "target": 40
+    },
+    {
+      "source": 43,
+      "book": "Lolita",
+      "target": 40
+    },
+    {
+      "source": 42,
+      "book": "Mrs Dalloway",
+      "target": 41
+    },
+    {
+      "source": 41,
+      "book": "Mrs Dalloway",
+      "target": 42
+    },
+    {
+      "source": 40,
+      "book": "Lolita",
+      "target": 43
+    },
+    {
+      "source": 38,
+      "book": "Moby Dick",
+      "target": 43
+    },
+    {
+      "source": 39,
+      "book": "The Complete Poems",
+      "target": 43
+    },
+    {
+      "source": 40,
+      "book": "The Long Goodbye",
+      "target": 43
+    },
+    {
+      "source": 38,
+      "book": "Moby Dick",
+      "target": 46
+    },
+    {
+      "source": 40,
+      "book": "Lolita",
+      "target": 49
+    },
+    {
+      "source": 43,
+      "book": "Lolita",
+      "target": 49
+    },
+    {
+      "source": 38,
+      "book": "A Good Man Is Hard to Find and Other Stories",
+      "target": 50
+    },
+    {
+      "source": 39,
+      "book": "John Keats",
+      "target": 51
+    },
+    {
+      "source": 41,
+      "book": "The Once and Future King",
+      "target": 51
+    },
+    {
+      "source": 42,
+      "book": "To Kill a Mockingbird",
+      "target": 51
+    },
+    {
+      "source": 38,
+      "book": "To the Lighthouse",
+      "target": 55
+    },
+    {
+      "source": 40,
+      "book": "Rebecca",
+      "target": 62
+    },
+    {
+      "source": 41,
+      "book": "Ulysses",
+      "target": 66
+    },
+    {
+      "source": 42,
+      "book": "To Kill a Mockingbird",
+      "target": 66
+    },
+    {
+      "source": 38,
+      "book": "The Americans",
+      "target": 67
+    },
+    {
+      "source": 39,
+      "book": "The Complete Poems",
+      "target": 69
+    },
+    {
+      "source": 41,
+      "book": "Ulysses",
+      "target": 74
+    },
+    {
+      "source": 38,
+      "book": "Moby Dick",
+      "target": 76
+    },
+    {
+      "source": 41,
+      "book": "Arcadia",
+      "target": 77
+    },
+    {
+      "source": 40,
+      "book": "Rebecca",
+      "target": 79
+    },
+    {
+      "source": 38,
+      "book": "Invisible Man",
+      "target": 80
+    },
+    {
+      "source": 41,
+      "book": "Mrs Dalloway",
+      "target": 82
+    },
+    {
+      "source": 42,
+      "book": "Mrs Dalloway",
+      "target": 82
+    },
+    {
+      "source": 41,
+      "book": "Ulysses",
+      "target": 82
+    },
+    {
+      "source": 40,
+      "book": "Lolita",
+      "target": 82
+    },
+    {
+      "source": 43,
+      "book": "Lolita",
+      "target": 82
+    },
+    {
+      "source": 39,
+      "book": "William Carlos Williams",
+      "target": 84
+    },
+    {
+      "source": 38,
+      "book": "To the Lighthouse",
+      "target": 86
+    },
+    {
+      "source": 40,
+      "book": "The Collected Poems of Frank O'Hara",
+      "target": 90
+    },
+    {
+      "source": 42,
+      "book": "Bird by Bird",
+      "target": 90
+    },
+    {
+      "source": 38,
+      "book": "Moby Dick",
+      "target": 90
+    },
+    {
+      "source": 39,
+      "book": "The Collected Poems of Wallace Stevens",
+      "target": 97
+    },
+    {
+      "source": 40,
+      "book": "The Collected Poems of Wallace Stevens",
+      "target": 97
+    },
+    {
+      "source": 38,
+      "book": "The Postman Always Rings Twice",
+      "target": 98
+    },
+    {
+      "source": 38,
+      "book": "The Americans",
+      "target": 99
+    },
+    {
+      "source": 40,
+      "book": "Lolita",
+      "target": 99
+    },
+    {
+      "source": 43,
+      "book": "Lolita",
+      "target": 99
+    },
+    {
+      "source": 47,
+      "book": "Catch-22",
+      "target": 11
+    },
+    {
+      "source": 43,
+      "book": "The Long Goodbye",
+      "target": 14
+    },
+    {
+      "source": 43,
+      "book": "Moby Dick",
+      "target": 14
+    },
+    {
+      "source": 46,
+      "book": "Moby Dick",
+      "target": 14
+    },
+    {
+      "source": 49,
+      "book": "Lolita",
+      "target": 19
+    },
+    {
+      "source": 49,
+      "book": "Lolita",
+      "target": 25
+    },
+    {
+      "source": 43,
+      "book": "The Wind-Up Bird Chronicle",
+      "target": 27
+    },
+    {
+      "source": 43,
+      "book": "The Dream Songs",
+      "target": 30
+    },
+    {
+      "source": 43,
+      "book": "Moby Dick",
+      "target": 30
+    },
+    {
+      "source": 46,
+      "book": "Moby Dick",
+      "target": 30
+    },
+    {
+      "source": 49,
+      "book": "Lolita",
+      "target": 30
+    },
+    {
+      "source": 47,
+      "book": "Catch-22",
+      "target": 34
+    },
+    {
+      "source": 43,
+      "book": "Moby Dick",
+      "target": 38
+    },
+    {
+      "source": 46,
+      "book": "Moby Dick",
+      "target": 38
+    },
+    {
+      "source": 43,
+      "book": "The Complete Poems",
+      "target": 39
+    },
+    {
+      "source": 43,
+      "book": "The Long Goodbye",
+      "target": 40
+    },
+    {
+      "source": 49,
+      "book": "Lolita",
+      "target": 40
+    },
+    {
+      "source": 49,
+      "book": "Lolita",
+      "target": 43
+    },
+    {
+      "source": 46,
+      "book": "Moby Dick",
+      "target": 43
+    },
+    {
+      "source": 49,
+      "book": "Diane Arbus",
+      "target": 45
+    },
+    {
+      "source": 43,
+      "book": "Moby Dick",
+      "target": 46
+    },
+    {
+      "source": 45,
+      "book": "Diane Arbus",
+      "target": 49
+    },
+    {
+      "source": 43,
+      "book": "The Wind-Up Bird Chronicle",
+      "target": 50
+    },
+    {
+      "source": 49,
+      "book": "Speak, Memory",
+      "target": 51
+    },
+    {
+      "source": 48,
+      "book": "The Collected Stories of Lydia Davis",
+      "target": 69
+    },
+    {
+      "source": 43,
+      "book": "The Complete Poems",
+      "target": 69
+    },
+    {
+      "source": 45,
+      "book": "Encyclopedia of twentieth-century photography",
+      "target": 75
+    },
+    {
+      "source": 43,
+      "book": "Moby Dick",
+      "target": 76
+    },
+    {
+      "source": 46,
+      "book": "Moby Dick",
+      "target": 76
+    },
+    {
+      "source": 48,
+      "book": "The Collected Stories of Lydia Davis",
+      "target": 76
+    },
+    {
+      "source": 43,
+      "book": "The Wind-Up Bird Chronicle",
+      "target": 77
+    },
+    {
+      "source": 49,
+      "book": "Lolita",
+      "target": 82
+    },
+    {
+      "source": 43,
+      "book": "Les Fleurs Du Mal",
+      "target": 83
+    },
+    {
+      "source": 45,
+      "book": "Pictures from Home",
+      "target": 84
+    },
+    {
+      "source": 43,
+      "book": "Les Fleurs Du Mal",
+      "target": 86
+    },
+    {
+      "source": 43,
+      "book": "Moby Dick",
+      "target": 90
+    },
+    {
+      "source": 46,
+      "book": "Moby Dick",
+      "target": 90
+    },
+    {
+      "source": 43,
+      "book": "The Wind-Up Bird Chronicle",
+      "target": 99
+    },
+    {
+      "source": 49,
+      "book": "Lolita",
+      "target": 99
+    },
+    {
+      "source": 47,
+      "book": "Catch-22",
+      "target": 100
+    },
+    {
+      "source": 50,
+      "book": "Cloud Atlas",
+      "target": 14
+    },
+    {
+      "source": 51,
+      "book": "Blood Meridian",
+      "target": 14
+    },
+    {
+      "source": 53,
+      "book": "The Little Prince",
+      "target": 15
+    },
+    {
+      "source": 51,
+      "book": "Nine Stories",
+      "target": 18
+    },
+    {
+      "source": 50,
+      "book": "Birds of America",
+      "target": 19
+    },
+    {
+      "source": 51,
+      "book": "Nine Stories",
+      "target": 21
+    },
+    {
+      "source": 51,
+      "book": "The Woman Warrior",
+      "target": 22
+    },
+    {
+      "source": 50,
+      "book": "Jesus' Son",
+      "target": 25
+    },
+    {
+      "source": 50,
+      "book": "The Wind-Up Bird Chronicle",
+      "target": 27
+    },
+    {
+      "source": 51,
+      "book": "Dispatches",
+      "target": 29
+    },
+    {
+      "source": 51,
+      "book": "To Kill a Mockingbird",
+      "target": 29
+    },
+    {
+      "source": 53,
+      "book": "The Little Prince",
+      "target": 29
+    },
+    {
+      "source": 51,
+      "book": "Blood Meridian",
+      "target": 30
+    },
+    {
+      "source": 50,
+      "book": "Jesus' Son",
+      "target": 30
+    },
+    {
+      "source": 52,
+      "book": "On Food and Cooking",
+      "target": 33
+    },
+    {
+      "source": 51,
+      "book": "Selected Stories of Anton Chekov",
+      "target": 35
+    },
+    {
+      "source": 50,
+      "book": "A Good Man Is Hard to Find and Other Stories",
+      "target": 38
+    },
+    {
+      "source": 51,
+      "book": "John Keats",
+      "target": 39
+    },
+    {
+      "source": 51,
+      "book": "The Once and Future King",
+      "target": 41
+    },
+    {
+      "source": 51,
+      "book": "To Kill a Mockingbird",
+      "target": 42
+    },
+    {
+      "source": 50,
+      "book": "The Wind-Up Bird Chronicle",
+      "target": 43
+    },
+    {
+      "source": 51,
+      "book": "Speak, Memory",
+      "target": 49
+    },
+    {
+      "source": 54,
+      "book": "Where I'm Calling From",
+      "target": 50
+    },
+    {
+      "source": 50,
+      "book": "Where I'm Calling From",
+      "target": 54
+    },
+    {
+      "source": 50,
+      "book": "Jesus' Son",
+      "target": 58
+    },
+    {
+      "source": 50,
+      "book": "The Princess Bride",
+      "target": 62
+    },
+    {
+      "source": 51,
+      "book": "To Kill a Mockingbird",
+      "target": 66
+    },
+    {
+      "source": 51,
+      "book": "Blood Meridian",
+      "target": 66
+    },
+    {
+      "source": 50,
+      "book": "Midnight's Children",
+      "target": 67
+    },
+    {
+      "source": 52,
+      "book": "Freedom",
+      "target": 68
+    },
+    {
+      "source": 51,
+      "book": "Dispatches",
+      "target": 69
+    },
+    {
+      "source": 51,
+      "book": "Selected Stories of Anton Chekov",
+      "target": 72
+    },
+    {
+      "source": 51,
+      "book": "Selected Stories of Anton Chekov",
+      "target": 72
+    },
+    {
+      "source": 51,
+      "book": "The Palm at the End of the Mind",
+      "target": 74
+    },
+    {
+      "source": 50,
+      "book": "A Confederacy Of Dunces",
+      "target": 76
+    },
+    {
+      "source": 50,
+      "book": "The Wind-Up Bird Chronicle",
+      "target": 77
+    },
+    {
+      "source": 50,
+      "book": "Birds of America",
+      "target": 78
+    },
+    {
+      "source": 51,
+      "book": "The Palm at the End of the Mind",
+      "target": 84
+    },
+    {
+      "source": 50,
+      "book": "Jesus' Son",
+      "target": 84
+    },
+    {
+      "source": 50,
+      "book": "A Confederacy Of Dunces",
+      "target": 88
+    },
+    {
+      "source": 52,
+      "book": "On Food and Cooking",
+      "target": 88
+    },
+    {
+      "source": 50,
+      "book": "Midnight's Children",
+      "target": 94
+    },
+    {
+      "source": 51,
+      "book": "Nine Stories",
+      "target": 98
+    },
+    {
+      "source": 50,
+      "book": "Middlesex",
+      "target": 99
+    },
+    {
+      "source": 50,
+      "book": "The Wind-Up Bird Chronicle",
+      "target": 99
+    },
+    {
+      "source": 58,
+      "book": "Cathedral",
+      "target": 5
+    },
+    {
+      "source": 57,
+      "book": "A Moveable Feast",
+      "target": 15
+    },
+    {
+      "source": 54,
+      "book": "A Supposedly Fun Thing I'll Never Do Again",
+      "target": 19
+    },
+    {
+      "source": 58,
+      "book": "Slouching Towards Bethlehem",
+      "target": 19
+    },
+    {
+      "source": 55,
+      "book": "Howards End",
+      "target": 21
+    },
+    {
+      "source": 55,
+      "book": "The custom of the country",
+      "target": 23
+    },
+    {
+      "source": 58,
+      "book": "Slouching Towards Bethlehem",
+      "target": 25
+    },
+    {
+      "source": 58,
+      "book": "Jesus' Son",
+      "target": 25
+    },
+    {
+      "source": 58,
+      "book": "Jesus' Son",
+      "target": 30
+    },
+    {
+      "source": 55,
+      "book": "To the Lighthouse",
+      "target": 38
+    },
+    {
+      "source": 58,
+      "book": "Jesus' Son",
+      "target": 50
+    },
+    {
+      "source": 58,
+      "book": "The Catcher in the Rye",
+      "target": 66
+    },
+    {
+      "source": 54,
+      "book": "A Supposedly Fun Thing I'll Never Do Again",
+      "target": 68
+    },
+    {
+      "source": 54,
+      "book": "A Supposedly Fun Thing I'll Never Do Again",
+      "target": 75
+    },
+    {
+      "source": 58,
+      "book": "Cathedral",
+      "target": 78
+    },
+    {
+      "source": 59,
+      "book": "Everything That Rises Must Converge",
+      "target": 80
+    },
+    {
+      "source": 58,
+      "book": "Our band could be your life",
+      "target": 81
+    },
+    {
+      "source": 58,
+      "book": "Jesus' Son",
+      "target": 84
+    },
+    {
+      "source": 56,
+      "book": "A Mother's Kisses",
+      "target": 85
+    },
+    {
+      "source": 55,
+      "book": "To the Lighthouse",
+      "target": 86
+    },
+    {
+      "source": 56,
+      "book": "Sleepless Nights",
+      "target": 93
+    },
+    {
+      "source": 58,
+      "book": "The Catcher in the Rye",
+      "target": 99
+    },
+    {
+      "source": 60,
+      "book": "Flatland",
+      "target": 4
+    },
+    {
+      "source": 66,
+      "book": "Songs of Innocence and of Experience",
+      "target": 10
+    },
+    {
+      "source": 63,
+      "book": "The Andy Warhol Diaries",
+      "target": 21
+    },
+    {
+      "source": 60,
+      "book": "Grid systems in graphic design",
+      "target": 26
+    },
+    {
+      "source": 62,
+      "book": "Rebecca",
+      "target": 40
+    },
+    {
+      "source": 62,
+      "book": "The Princess Bride",
+      "target": 50
+    },
+    {
+      "source": 62,
+      "book": "Rebecca",
+      "target": 79
+    },
+    {
+      "source": 59,
+      "book": "In Dreams Begin Responsibilities and Other Stories",
+      "target": 80
+    },
+    {
+      "source": 62,
+      "book": "Jane Eyre",
+      "target": 82
+    },
+    {
+      "source": 62,
+      "book": "Jane Eyre",
+      "target": 98
+    },
+    {
+      "source": 68,
+      "book": "Personal History",
+      "target": 4
+    },
+    {
+      "source": 66,
+      "book": "Blood Meridian",
+      "target": 14
+    },
+    {
+      "source": 66,
+      "book": "Ulysses",
+      "target": 14
+    },
+    {
+      "source": 68,
+      "book": "A Supposedly Fun Thing I'll Never Do Again",
+      "target": 19
+    },
+    {
+      "source": 67,
+      "book": "The Americans",
+      "target": 28
+    },
+    {
+      "source": 69,
+      "book": "Dispatches",
+      "target": 29
+    },
+    {
+      "source": 66,
+      "book": "To Kill a Mockingbird",
+      "target": 29
+    },
+    {
+      "source": 66,
+      "book": "Pale Fire",
+      "target": 30
+    },
+    {
+      "source": 66,
+      "book": "Blood Meridian",
+      "target": 30
+    },
+    {
+      "source": 66,
+      "book": "On the Road",
+      "target": 30
+    },
+    {
+      "source": 67,
+      "book": "One Hundred Years of Solitude",
+      "target": 30
+    },
+    {
+      "source": 68,
+      "book": "Facing Unpleasant Facts",
+      "target": 35
+    },
+    {
+      "source": 67,
+      "book": "The Americans",
+      "target": 38
+    },
+    {
+      "source": 69,
+      "book": "The Complete Poems",
+      "target": 39
+    },
+    {
+      "source": 66,
+      "book": "Ulysses",
+      "target": 41
+    },
+    {
+      "source": 66,
+      "book": "To Kill a Mockingbird",
+      "target": 42
+    },
+    {
+      "source": 69,
+      "book": "The Complete Poems",
+      "target": 43
+    },
+    {
+      "source": 69,
+      "book": "The Collected Stories of Lydia Davis",
+      "target": 48
+    },
+    {
+      "source": 67,
+      "book": "Midnight's Children",
+      "target": 50
+    },
+    {
+      "source": 69,
+      "book": "Dispatches",
+      "target": 51
+    },
+    {
+      "source": 66,
+      "book": "Blood Meridian",
+      "target": 51
+    },
+    {
+      "source": 66,
+      "book": "To Kill a Mockingbird",
+      "target": 51
+    },
+    {
+      "source": 68,
+      "book": "Freedom",
+      "target": 52
+    },
+    {
+      "source": 68,
+      "book": "A Supposedly Fun Thing I'll Never Do Again",
+      "target": 54
+    },
+    {
+      "source": 66,
+      "book": "The Catcher in the Rye",
+      "target": 58
+    },
+    {
+      "source": 67,
+      "book": "One Hundred Years of Solitude",
+      "target": 70
+    },
+    {
+      "source": 66,
+      "book": "Ulysses",
+      "target": 74
+    },
+    {
+      "source": 68,
+      "book": "A Supposedly Fun Thing I'll Never Do Again",
+      "target": 75
+    },
+    {
+      "source": 66,
+      "book": "On the Road",
+      "target": 76
+    },
+    {
+      "source": 69,
+      "book": "The Collected Stories of Lydia Davis",
+      "target": 76
+    },
+    {
+      "source": 66,
+      "book": "Ulysses",
+      "target": 82
+    },
+    {
+      "source": 66,
+      "book": "Pale Fire",
+      "target": 85
+    },
+    {
+      "source": 68,
+      "book": "On Writing",
+      "target": 90
+    },
+    {
+      "source": 67,
+      "book": "Midnight's Children",
+      "target": 94
+    },
+    {
+      "source": 67,
+      "book": "The Americans",
+      "target": 99
+    },
+    {
+      "source": 66,
+      "book": "The Catcher in the Rye",
+      "target": 99
+    },
+    {
+      "source": 69,
+      "book": "Mythology",
+      "target": 100
+    },
+    {
+      "source": 76,
+      "book": "The Portable Chekhov",
+      "target": 2
+    },
+    {
+      "source": 74,
+      "book": "Ulysses",
+      "target": 14
+    },
+    {
+      "source": 75,
+      "book": "A Supposedly Fun Thing I'll Never Do Again",
+      "target": 19
+    },
+    {
+      "source": 70,
+      "book": "One Hundred Years of Solitude",
+      "target": 30
+    },
+    {
+      "source": 72,
+      "book": "Selected Stories of Anton Chekov",
+      "target": 35
+    },
+    {
+      "source": 72,
+      "book": "Selected Stories of Anton Chekov",
+      "target": 35
+    },
+    {
+      "source": 74,
+      "book": "Ulysses",
+      "target": 41
+    },
+    {
+      "source": 75,
+      "book": "Encyclopedia of twentieth-century photography",
+      "target": 45
+    },
+    {
+      "source": 72,
+      "book": "Selected Stories of Anton Chekov",
+      "target": 51
+    },
+    {
+      "source": 72,
+      "book": "Selected Stories of Anton Chekov",
+      "target": 51
+    },
+    {
+      "source": 74,
+      "book": "The Palm at the End of the Mind",
+      "target": 51
+    },
+    {
+      "source": 75,
+      "book": "A Supposedly Fun Thing I'll Never Do Again",
+      "target": 54
+    },
+    {
+      "source": 74,
+      "book": "Ulysses",
+      "target": 66
+    },
+    {
+      "source": 70,
+      "book": "One Hundred Years of Solitude",
+      "target": 67
+    },
+    {
+      "source": 75,
+      "book": "A Supposedly Fun Thing I'll Never Do Again",
+      "target": 68
+    },
+    {
+      "source": 74,
+      "book": "Ulysses",
+      "target": 82
+    },
+    {
+      "source": 74,
+      "book": "The Palm at the End of the Mind",
+      "target": 84
+    },
+    {
+      "source": 70,
+      "book": "Mrs. Bridge",
+      "target": 89
+    },
+    {
+      "source": 71,
+      "book": "Cryptonomicon",
+      "target": 100
+    },
+    {
+      "source": 80,
+      "book": "The Emperor",
+      "target": 2
+    },
+    {
+      "source": 76,
+      "book": "White Teeth",
+      "target": 4
+    },
+    {
+      "source": 78,
+      "book": "Cathedral",
+      "target": 5
+    },
+    {
+      "source": 76,
+      "book": "Moby Dick",
+      "target": 14
+    },
+    {
+      "source": 78,
+      "book": "The portable Dorothy Parker",
+      "target": 19
+    },
+    {
+      "source": 78,
+      "book": "Birds of America",
+      "target": 19
+    },
+    {
+      "source": 78,
+      "book": "Flannery O'Connor Complete Stories",
+      "target": 19
+    },
+    {
+      "source": 80,
+      "book": "Invisible Man",
+      "target": 24
+    },
+    {
+      "source": 77,
+      "book": "The Wind-Up Bird Chronicle",
+      "target": 27
+    },
+    {
+      "source": 80,
+      "book": "William Faulkner's The sound and the fury",
+      "target": 29
+    },
+    {
+      "source": 76,
+      "book": "Moby Dick",
+      "target": 30
+    },
+    {
+      "source": 80,
+      "book": "William Faulkner's The sound and the fury",
+      "target": 30
+    },
+    {
+      "source": 76,
+      "book": "On the Road",
+      "target": 30
+    },
+    {
+      "source": 76,
+      "book": "Cannery Row",
+      "target": 30
+    },
+    {
+      "source": 78,
+      "book": "Flannery O'Connor Complete Stories",
+      "target": 31
+    },
+    {
+      "source": 76,
+      "book": "Moby Dick",
+      "target": 38
+    },
+    {
+      "source": 80,
+      "book": "Invisible Man",
+      "target": 38
+    },
+    {
+      "source": 79,
+      "book": "Rebecca",
+      "target": 40
+    },
+    {
+      "source": 77,
+      "book": "Arcadia",
+      "target": 41
+    },
+    {
+      "source": 76,
+      "book": "Moby Dick",
+      "target": 43
+    },
+    {
+      "source": 77,
+      "book": "The Wind-Up Bird Chronicle",
+      "target": 43
+    },
+    {
+      "source": 76,
+      "book": "Moby Dick",
+      "target": 46
+    },
+    {
+      "source": 76,
+      "book": "The Collected Stories of Lydia Davis",
+      "target": 48
+    },
+    {
+      "source": 77,
+      "book": "The Wind-Up Bird Chronicle",
+      "target": 50
+    },
+    {
+      "source": 78,
+      "book": "Birds of America",
+      "target": 50
+    },
+    {
+      "source": 76,
+      "book": "A Confederacy Of Dunces",
+      "target": 50
+    },
+    {
+      "source": 78,
+      "book": "Cathedral",
+      "target": 58
+    },
+    {
+      "source": 80,
+      "book": "Everything That Rises Must Converge",
+      "target": 59
+    },
+    {
+      "source": 79,
+      "book": "Rebecca",
+      "target": 62
+    },
+    {
+      "source": 76,
+      "book": "On the Road",
+      "target": 66
+    },
+    {
+      "source": 76,
+      "book": "The Collected Stories of Lydia Davis",
+      "target": 69
+    },
+    {
+      "source": 76,
+      "book": "Infinite Jest",
+      "target": 81
+    },
+    {
+      "source": 78,
+      "book": "Revolutionary Road",
+      "target": 85
+    },
+    {
+      "source": 76,
+      "book": "Infinite Jest",
+      "target": 86
+    },
+    {
+      "source": 76,
+      "book": "Doctor Zhivago",
+      "target": 87
+    },
+    {
+      "source": 77,
+      "book": "The Life of Samuel Johnson",
+      "target": 87
+    },
+    {
+      "source": 76,
+      "book": "A Confederacy Of Dunces",
+      "target": 88
+    },
+    {
+      "source": 78,
+      "book": "Flannery O'Connor Complete Stories",
+      "target": 89
+    },
+    {
+      "source": 76,
+      "book": "Moby Dick",
+      "target": 90
+    },
+    {
+      "source": 77,
+      "book": "The Wind-Up Bird Chronicle",
+      "target": 99
+    },
+    {
+      "source": 82,
+      "book": "Ulysses",
+      "target": 14
+    },
+    {
+      "source": 81,
+      "book": "Jimmy Corrigan",
+      "target": 15
+    },
+    {
+      "source": 82,
+      "book": "Lolita",
+      "target": 19
+    },
+    {
+      "source": 81,
+      "book": "A Clockwork Orange",
+      "target": 21
+    },
+    {
+      "source": 82,
+      "book": "Lolita",
+      "target": 25
+    },
+    {
+      "source": 84,
+      "book": "Jesus' Son",
+      "target": 25
+    },
+    {
+      "source": 82,
+      "book": "Lolita",
+      "target": 30
+    },
+    {
+      "source": 84,
+      "book": "Jesus' Son",
+      "target": 30
+    },
+    {
+      "source": 84,
+      "book": "William Carlos Williams",
+      "target": 39
+    },
+    {
+      "source": 82,
+      "book": "Lolita",
+      "target": 40
+    },
+    {
+      "source": 82,
+      "book": "Ulysses",
+      "target": 41
+    },
+    {
+      "source": 82,
+      "book": "Mrs Dalloway",
+      "target": 41
+    },
+    {
+      "source": 82,
+      "book": "Mrs Dalloway",
+      "target": 42
+    },
+    {
+      "source": 82,
+      "book": "Lolita",
+      "target": 43
+    },
+    {
+      "source": 83,
+      "book": "Les Fleurs Du Mal",
+      "target": 43
+    },
+    {
+      "source": 84,
+      "book": "Pictures from Home",
+      "target": 45
+    },
+    {
+      "source": 82,
+      "book": "Lolita",
+      "target": 49
+    },
+    {
+      "source": 84,
+      "book": "Jesus' Son",
+      "target": 50
+    },
+    {
+      "source": 84,
+      "book": "The Palm at the End of the Mind",
+      "target": 51
+    },
+    {
+      "source": 81,
+      "book": "Our band could be your life",
+      "target": 58
+    },
+    {
+      "source": 84,
+      "book": "Jesus' Son",
+      "target": 58
+    },
+    {
+      "source": 80,
+      "book": "In Dreams Begin Responsibilities and Other Stories",
+      "target": 59
+    },
+    {
+      "source": 82,
+      "book": "Jane Eyre",
+      "target": 62
+    },
+    {
+      "source": 82,
+      "book": "Ulysses",
+      "target": 66
+    },
+    {
+      "source": 84,
+      "book": "The Palm at the End of the Mind",
+      "target": 74
+    },
+    {
+      "source": 82,
+      "book": "Ulysses",
+      "target": 74
+    },
+    {
+      "source": 81,
+      "book": "Infinite Jest",
+      "target": 76
+    },
+    {
+      "source": 81,
+      "book": "Infinite Jest",
+      "target": 86
+    },
+    {
+      "source": 83,
+      "book": "Les Fleurs Du Mal",
+      "target": 86
+    },
+    {
+      "source": 81,
+      "book": "The Amazing Adventures of Kavalier & Clay",
+      "target": 94
+    },
+    {
+      "source": 82,
+      "book": "Jane Eyre",
+      "target": 98
+    },
+    {
+      "source": 84,
+      "book": "William Eggleston's Guide",
+      "target": 99
+    },
+    {
+      "source": 81,
+      "book": "The Amazing Adventures of Kavalier & Clay",
+      "target": 99
+    },
+    {
+      "source": 82,
+      "book": "Lolita",
+      "target": 99
+    },
+    {
+      "source": 85,
+      "book": "The Stories of John Cheever",
+      "target": 14
+    },
+    {
+      "source": 89,
+      "book": "Essays of E.B. White",
+      "target": 15
+    },
+    {
+      "source": 89,
+      "book": "Flannery O'Connor Complete Stories",
+      "target": 19
+    },
+    {
+      "source": 85,
+      "book": "The Stories of John Cheever",
+      "target": 19
+    },
+    {
+      "source": 85,
+      "book": "The Golden Notebook",
+      "target": 24
+    },
+    {
+      "source": 89,
+      "book": "The Moviegoer",
+      "target": 29
+    },
+    {
+      "source": 85,
+      "book": "Pale Fire",
+      "target": 30
+    },
+    {
+      "source": 85,
+      "book": "The Complete Short Stories Of Ernest Hemingway",
+      "target": 30
+    },
+    {
+      "source": 86,
+      "book": "Pulphead",
+      "target": 31
+    },
+    {
+      "source": 89,
+      "book": "Flannery O'Connor Complete Stories",
+      "target": 31
+    },
+    {
+      "source": 90,
+      "book": "Leaves of Grass",
+      "target": 32
+    },
+    {
+      "source": 88,
+      "book": "On Food and Cooking",
+      "target": 33
+    },
+    {
+      "source": 86,
+      "book": "To the Lighthouse",
+      "target": 38
+    },
+    {
+      "source": 86,
+      "book": "Les Fleurs Du Mal",
+      "target": 43
+    },
+    {
+      "source": 88,
+      "book": "A Confederacy Of Dunces",
+      "target": 50
+    },
+    {
+      "source": 88,
+      "book": "On Food and Cooking",
+      "target": 52
+    },
+    {
+      "source": 86,
+      "book": "To the Lighthouse",
+      "target": 55
+    },
+    {
+      "source": 85,
+      "book": "A Mother's Kisses",
+      "target": 56
+    },
+    {
+      "source": 85,
+      "book": "Pale Fire",
+      "target": 66
+    },
+    {
+      "source": 89,
+      "book": "Mrs. Bridge",
+      "target": 70
+    },
+    {
+      "source": 87,
+      "book": "Doctor Zhivago",
+      "target": 76
+    },
+    {
+      "source": 88,
+      "book": "A Confederacy Of Dunces",
+      "target": 76
+    },
+    {
+      "source": 86,
+      "book": "Infinite Jest",
+      "target": 76
+    },
+    {
+      "source": 87,
+      "book": "The Life of Samuel Johnson",
+      "target": 77
+    },
+    {
+      "source": 85,
+      "book": "Revolutionary Road",
+      "target": 78
+    },
+    {
+      "source": 89,
+      "book": "Flannery O'Connor Complete Stories",
+      "target": 78
+    },
+    {
+      "source": 86,
+      "book": "Infinite Jest",
+      "target": 81
+    },
+    {
+      "source": 86,
+      "book": "Les Fleurs Du Mal",
+      "target": 83
+    },
+    {
+      "source": 94,
+      "book": "What Is the What",
+      "target": 5
+    },
+    {
+      "source": 95,
+      "book": "Adventures on the Wine Route",
+      "target": 7
+    },
+    {
+      "source": 90,
+      "book": "Harriet the Spy",
+      "target": 9
+    },
+    {
+      "source": 90,
+      "book": "The Collected Poems of Frank O'Hara",
+      "target": 9
+    },
+    {
+      "source": 93,
+      "book": "The Unbearable Lightness of Being",
+      "target": 10
+    },
+    {
+      "source": 90,
+      "book": "The War of Art",
+      "target": 13
+    },
+    {
+      "source": 90,
+      "book": "Moby Dick",
+      "target": 14
+    },
+    {
+      "source": 94,
+      "book": "What Is the What",
+      "target": 19
+    },
+    {
+      "source": 90,
+      "book": "Moby Dick",
+      "target": 30
+    },
+    {
+      "source": 94,
+      "book": "We Have Always Lived in the Castle",
+      "target": 34
+    },
+    {
+      "source": 90,
+      "book": "Moby Dick",
+      "target": 38
+    },
+    {
+      "source": 90,
+      "book": "The Collected Poems of Frank O'Hara",
+      "target": 40
+    },
+    {
+      "source": 90,
+      "book": "Bird by Bird",
+      "target": 42
+    },
+    {
+      "source": 90,
+      "book": "Moby Dick",
+      "target": 43
+    },
+    {
+      "source": 90,
+      "book": "Moby Dick",
+      "target": 46
+    },
+    {
+      "source": 94,
+      "book": "Midnight's Children",
+      "target": 50
+    },
+    {
+      "source": 93,
+      "book": "Sleepless Nights",
+      "target": 56
+    },
+    {
+      "source": 94,
+      "book": "Midnight's Children",
+      "target": 67
+    },
+    {
+      "source": 90,
+      "book": "On Writing",
+      "target": 68
+    },
+    {
+      "source": 90,
+      "book": "Moby Dick",
+      "target": 76
+    },
+    {
+      "source": 94,
+      "book": "The Amazing Adventures of Kavalier & Clay",
+      "target": 81
+    },
+    {
+      "source": 94,
+      "book": "The Amazing Adventures of Kavalier & Clay",
+      "target": 99
+    },
+    {
+      "source": 95,
+      "book": "The Taste of Country Cooking",
+      "target": 0
+    },
+    {
+      "source": 98,
+      "book": "Native funk & flash",
+      "target": 17
+    },
+    {
+      "source": 98,
+      "book": "Nine Stories",
+      "target": 18
+    },
+    {
+      "source": 98,
+      "book": "Nine Stories",
+      "target": 21
+    },
+    {
+      "source": 99,
+      "book": "The Americans",
+      "target": 28
+    },
+    {
+      "source": 98,
+      "book": "The Postman Always Rings Twice",
+      "target": 38
+    },
+    {
+      "source": 99,
+      "book": "The Americans",
+      "target": 38
+    },
+    {
+      "source": 97,
+      "book": "The Collected Poems of Wallace Stevens",
+      "target": 39
+    },
+    {
+      "source": 97,
+      "book": "The Collected Poems of Wallace Stevens",
+      "target": 40
+    },
+    {
+      "source": 98,
+      "book": "Nine Stories",
+      "target": 51
+    },
+    {
+      "source": 98,
+      "book": "Jane Eyre",
+      "target": 62
+    },
+    {
+      "source": 99,
+      "book": "The Americans",
+      "target": 67
+    },
+    {
+      "source": 99,
+      "book": "The Amazing Adventures of Kavalier & Clay",
+      "target": 81
+    },
+    {
+      "source": 98,
+      "book": "Jane Eyre",
+      "target": 82
+    },
+    {
+      "source": 99,
+      "book": "William Eggleston's Guide",
+      "target": 84
+    },
+    {
+      "source": 99,
+      "book": "The Amazing Adventures of Kavalier & Clay",
+      "target": 94
+    },
+    {
+      "source": 100,
+      "book": "Catch-22",
+      "target": 11
+    },
+    {
+      "source": 100,
+      "book": "The Elegant Universe",
+      "target": 12
+    },
+    {
+      "source": 100,
+      "book": "The Phantom Tollbooth",
+      "target": 14
+    },
+    {
+      "source": 99,
+      "book": "The Great Gatsby",
+      "target": 19
+    },
+    {
+      "source": 99,
+      "book": "Lolita",
+      "target": 19
+    },
+    {
+      "source": 99,
+      "book": "Lolita",
+      "target": 25
+    },
+    {
+      "source": 99,
+      "book": "It's Not How Good You Are, Its How Good You Want to Be",
+      "target": 26
+    },
+    {
+      "source": 99,
+      "book": "The Wind-Up Bird Chronicle",
+      "target": 27
+    },
+    {
+      "source": 99,
+      "book": "The Great Gatsby",
+      "target": 30
+    },
+    {
+      "source": 99,
+      "book": "Lolita",
+      "target": 30
+    },
+    {
+      "source": 100,
+      "book": "Catch-22",
+      "target": 34
+    },
+    {
+      "source": 99,
+      "book": "Lolita",
+      "target": 40
+    },
+    {
+      "source": 99,
+      "book": "Lolita",
+      "target": 43
+    },
+    {
+      "source": 99,
+      "book": "The Wind-Up Bird Chronicle",
+      "target": 43
+    },
+    {
+      "source": 100,
+      "book": "Catch-22",
+      "target": 47
+    },
+    {
+      "source": 99,
+      "book": "Lolita",
+      "target": 49
+    },
+    {
+      "source": 99,
+      "book": "The Wind-Up Bird Chronicle",
+      "target": 50
+    },
+    {
+      "source": 99,
+      "book": "Middlesex",
+      "target": 50
+    },
+    {
+      "source": 99,
+      "book": "The Catcher in the Rye",
+      "target": 58
+    },
+    {
+      "source": 99,
+      "book": "The Catcher in the Rye",
+      "target": 66
+    },
+    {
+      "source": 100,
+      "book": "Mythology",
+      "target": 69
+    },
+    {
+      "source": 100,
+      "book": "Cryptonomicon",
+      "target": 71
+    },
+    {
+      "source": 99,
+      "book": "The Wind-Up Bird Chronicle",
+      "target": 77
+    },
+    {
+      "source": 99,
+      "book": "Lolita",
+      "target": 82
+    }
+  ]
+}

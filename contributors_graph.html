@@ -1,0 +1,287 @@
+<script src="http://d3js.org/d3.v2.min.js?2.9.3"></script>
+
+<style>
+
+.node {
+  cursor: pointer;
+  stroke: #858376;
+  fill: rgba(0,0,0,0);
+  stroke-width: 2px;
+}
+
+.link {
+  fill: none;
+  stroke: rgba(133,131,118,0.1);
+  stroke-width: 0.5px;
+  stroke-linecap: "round";
+}
+
+.bold_stroke {
+  stroke-width: 4px;
+}
+
+.node text {
+  stroke: none;
+}
+
+.book_name {
+  font-weight: bold;
+}
+
+.shared_contributor_name {
+  font-weight: bold;
+}
+
+#contributors_graph {
+  width: 620px;
+  display: inline-block;
+  position: absolute;
+  padding-left: 100px;
+  float: left;
+  z-index: 1
+}
+
+.node_info {
+  z-index: 0;
+  display: inline-block;
+  margin: 20px;
+  width: 200px;
+  font-size: 12px;
+  line-height: 12px;
+}
+
+.node_info .contributor {
+  font-size: 14px
+}
+
+ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 1em;
+  text-indent: -1em;
+  padding-top: 0px;
+}
+
+li {
+  padding: 3px;
+}
+
+ul li:before {
+  content: "\00BB \0020";
+}
+
+body {
+  margin: 0px;
+  font: 12px/16px 'Helvetica Neue', sans-serif;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+</style>
+
+<div id = "container">
+  <div id = "contributors_graph">
+    <script>
+    var professional_groups = {
+      "chef":"#e37b9c",
+      "writer":"#e27d86",
+      "curator":"#65a1fb",
+      "producer":"#67bacc",
+      "artist":"#e278b0",
+      "book cover designer":"#55a8fb",
+      "journalist":"#6aba96",
+      "fashion designers":"#9b93fb",
+      "musician":"#e277c2",
+      "fashion designer":"#9b93fb",
+      "dancer":"#a5a228",
+      "interior designer":"#6ab66a",
+      "graphic designer":"#d77be2",
+      "architects":"#d48b34",
+      "editor":"#cd7fef",
+      "historian":"#69b450",
+      "actor":"#df816f",
+      "typeface designer":"#60b4e8",
+      "data-visualization artist":"#98a629",
+      "doctor":"#8aa929",
+      "poet":"#69bbbb",
+      "athlete":"#cd9025",
+      "photographer":"#c084f8",
+      "illustrator":"#de78d4",
+      "cartoonist":"#bb9a27",
+      "designer":"#829afb",
+      "legal scholar":"#af8bfa",
+      "jewelry designer":"#6ab881",
+      "composer":"#b19f28",
+      "filmmaker":"#67af2e",
+      "librarian":"#6abba8",
+      "violist":"#6abba8",
+      "baker":"#c59526",
+      "app developer":"#db8755",
+      "stylist":"#63b7db"
+    }
+
+    var width = 620,
+        height = 820
+
+    var default_transition_duration = 100,
+      medium_circle_radius = 12,
+      large_circle_radius = 35,
+      small_circle_radius = 6
+
+    d3.select("#ie_warning").remove();
+
+    var svg = d3.select("#contributors_graph").append("svg")
+        .attr("width", width)
+        .attr("height", height);
+
+    var force = d3.layout.force()
+        .gravity(.05)
+        .distance(100)
+        .charge(-50)
+        .size([width, height]);
+
+    d3.json("contributors.json", function(json) {
+
+      force
+        .nodes(json.nodes)
+        .links(json.links)
+        .start();
+
+      var link = svg.selectAll(".link")
+        .data(json.links)
+        .enter().append("line")
+        .attr("class", function(d) { return "link source_" + d.source.id + " target_"+ d.target.id; });
+
+      var node = svg.selectAll(".node")
+        .data(json.nodes)
+        .enter().append("g")
+        .attr("class", "node")
+        .style("stroke", function(d) { return professional_groups[(d.profession)]; })
+        .attr("id", function(d) { return "node_" + d.id; })
+        .call(force.drag);
+
+      node.append("circle")
+        .attr('id', function(d) { return "circle_" + d.id })
+        .attr("r", 8)
+      
+      node.append("image")
+        .attr('id', function(d) { return "image_" + d.id })
+        .attr("xlink:href", "http://mattebeweber.com/photos/spencer4.jpg")
+        .attr("x", -medium_circle_radius)
+        .attr("y", -medium_circle_radius)
+        .attr("width", 2 * medium_circle_radius)
+        .attr("height", 2 * medium_circle_radius);
+
+      node.on("mouseover", function(n,i) {
+
+        d3.selectAll("li.shared_book").remove()
+        d3.select('.contributor').text("")
+        d3.selectAll("circle")
+          .transition()
+          .duration(default_transition_duration)
+          .attr('r', small_circle_radius);
+        d3.selectAll("image")
+          .transition()
+          .duration(default_transition_duration)
+          .attr("x", -small_circle_radius)
+          .attr("y", -small_circle_radius)
+          .attr("width", 2 * small_circle_radius)
+          .attr("height", 2 * small_circle_radius)
+          
+        d3.select("#circle_" + n.id)
+          .transition()
+          .duration(default_transition_duration)
+          .attr('r', large_circle_radius);
+        d3.select("#image_" + n.id)
+          .transition()
+          .duration(default_transition_duration)
+          .attr("x", -large_circle_radius)
+          .attr("y", -large_circle_radius)
+          .attr("width", 2 * large_circle_radius)
+          .attr("height", 2 * large_circle_radius)
+
+        var book_list = d3.select("#book_list");
+        d3.selectAll(".source_" + n.id)
+          .classed('bold_stroke', true)
+          .sort(function(a,b) { return a.target.id < b.target.id ? -1 : 1 })
+          .each(function(link) {
+            if (link.target.id != link.source.id) {
+
+              d3.select("#circle_" + link.target.id)
+                .transition()
+                .duration(default_transition_duration)
+                .attr('r', large_circle_radius)
+              d3.select("#image_" + link.target.id)
+                .transition()
+                .duration(default_transition_duration)
+                .attr("x", -large_circle_radius)
+                .attr("y", -large_circle_radius)
+                .attr("width", 2 * large_circle_radius)
+                .attr("height", 2 * large_circle_radius)
+                .attr("z-index", "1000000");
+
+              d3.selectAll(".source_" + link.source.id + ".target_" + link.target.id)
+                .style('stroke', professional_groups[link.target.profession])
+                .style('opacity', '0.5');
+
+              d3.select('#node_' + link.target.id)
+                .classed('selected_node', true)
+                .append("text")
+                .attr('class', 'label')
+                .attr("dx", 25)
+                .attr("dy", '4px')
+                .style("fill", "grey")
+                .text(function(d) { return d.name })
+
+              d3.select(".contributor")
+                .text(n.name + "'s shelf shares: ");
+
+              book_list.append("li")
+                .attr('class', 'shared_book')
+                .html("<span class = 'book_name'>" + link.book +
+                "</span> with <span class = 'shared_contributor_name'>" + link.target.name)
+                .style('color', professional_groups[link.target.profession])
+            }
+        })
+
+        d3.select(this).append("text")
+          .attr("dx", 25)
+          .attr("dy", '4px')
+          .attr('class', 'label')
+          .text(function(d) { return d.name })
+          .style("fill", "grey")
+        })
+
+        node.on("mouseout", function(node, i) {
+          d3.selectAll('.source_' + node.id)
+            .classed('bold_stroke', false)
+            .classed('selected_node', false)
+          d3.selectAll('.label').remove()
+          d3.selectAll('.link').style('stroke', 'rgba(133,131,118,0.1)');
+          d3.selectAll("circle").transition().duration(default_transition_duration).attr('r', medium_circle_radius);
+          d3.selectAll("image").transition().duration(default_transition_duration).attr("x", -medium_circle_radius).attr("y", -medium_circle_radius).attr("width", 2 * medium_circle_radius).attr("height", 2 * medium_circle_radius).attr("z-index", "10");;
+        });
+
+      force.on("tick", function() {
+        link.attr("x1", function(d) { return d.source.x; })
+            .attr("y1", function(d) { return d.source.y; })
+            .attr("x2", function(d) { return d.target.x; })
+            .attr("y2", function(d) { return d.target.y; });
+
+        node.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+      });
+    });
+    </script>
+  </div>
+
+  <div class = "node_info">
+    <div class = "contributor">
+    </div>
+    <ul id = "book_list">
+    </ul>
+  </div>
+</div>
